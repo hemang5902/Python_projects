@@ -83,7 +83,7 @@ def main_screen():
     # icon
     # attribute - "<a href="https://www.flaticon.com/free-icons/secret" title="secret icons">Secret icons created by Freepik - Flaticon</a>"
     image_icon = PhotoImage(
-        file="python_projects\Secret_Message_Tool_Gui Tkinter project\secret.png")
+        file="Secret_Message_Tool_Gui_Tkinter_project\secret.png")
     screen.iconphoto(False, image_icon)
     screen.title("Secret message tool")
 
