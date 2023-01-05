@@ -39,12 +39,12 @@ def save():
 
 
 # ICON
-image_icon = PhotoImage(file="Stenograph_app\icons8.png")
+image_icon = PhotoImage(file="python_projects\Stenograph_app\icons8.png")
 root.iconphoto(False, image_icon)
 
 
 # logo
-logo = PhotoImage(file="Stenograph_app\spy_bhau.png")
+logo = PhotoImage(file="python_projects\Stenograph_app\spy_bhau.png")
 Label(root, image=logo, bg="#2f4155").place(x=10, y=0)
 
 Label(root, text="Cyber Secure", bg="#2d4155",
