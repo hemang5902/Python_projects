@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hemang Gawali</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
-- 💻 I'm currently working on E-commerce website for 
+- 💻 I'm currently pursuing Bachelor's in Engineering in Information Technology at Institute of Engineering & Technology, DAVV, Indore
 
 - 🌱 I’m currently learning **Python, Machine Learning, Statistics**
 
